@@ -10,3 +10,5 @@ mtr
 whoami
 hostname
 systemctl
+uname -a
+
