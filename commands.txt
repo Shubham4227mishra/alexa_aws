@@ -7,4 +7,6 @@ netstat -nltp
 traceroute
 tracepath
 mtr
+whoami
+hostname
 
