@@ -9,4 +9,4 @@ tracepath
 mtr
 whoami
 hostname
-
+systemctl
