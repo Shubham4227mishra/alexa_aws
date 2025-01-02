@@ -1,0 +1,10 @@
+ping
+curl
+dig 
+ns
+dig
+netstat -nltp
+traceroute
+tracepath
+mtr
+
