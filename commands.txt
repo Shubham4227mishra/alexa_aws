@@ -13,4 +13,5 @@ systemctl
 uname -a
 cat /etc/os*
 cat /etc/passwd
-cat /etc/groups	
+cat /etc/groups
+cat /etc/hosts		
