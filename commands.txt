@@ -1,6 +1,6 @@
-ping google.com
-curl google.com
-dig TXT google.com
+ping google.com -c 4
+curl google.com -c 4
+dig TXT google.com 
 nslookup google.com
 dig MX google.com
 netstat -nltp
