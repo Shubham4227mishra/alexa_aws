@@ -4,8 +4,8 @@ dig TXT google.com
 nslookup google.com
 dig MX google.com
 netstat -nltp
-traceroute google.com
-tracepath google.com
+#traceroute google.com
+#tracepath google.com
 mtr google.com
 whoami
 hostname -i
