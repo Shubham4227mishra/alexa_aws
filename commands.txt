@@ -1,19 +1,22 @@
-ping
-curl
-dig 
-ns
-dig
+ping google.com
+curl google.com
+dig TXT google.com
+nslookup google.com
+dig MX google.com
 netstat -nltp
-traceroute
-tracepath
-mtr
+traceroute google.com
+tracepath google.com
+mtr google.com
 whoami
-hostname
-systemctl
+hostname -i
 uname -a
 cat /etc/os*
 cat /etc/passwd
 cat /etc/groups
-cat /etc/nginx/ngnx.conf
+sleep 3
+$?
+
+
 			
+
 
