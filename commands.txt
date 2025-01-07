@@ -13,7 +13,7 @@ uname -a
 cat /etc/os*
 cat /etc/passwd
 cat /etc/group
-
+cat /etc/hosts	
 
 
 			
